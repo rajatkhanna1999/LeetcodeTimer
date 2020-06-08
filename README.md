@@ -1,9 +1,9 @@
 # LeetcodeTimer
 A Chrome extension that provides timer for the leetcode questions. Leetcode is a website for interview preprations and most interviews are time bound. This extension can help you get better by improving your speed. 
 
-## Example
+## Screenshots
 ![image](Images/It7.png)
-<img src="https://user-images.githubusercontent.com/31288037/84002595-4bc2f080-a986-11ea-83a9-53f290746339.png" height="100">
+<img src="https://user-images.githubusercontent.com/31288037/84002595-4bc2f080-a986-11ea-83a9-53f290746339.png"">
 
 ## Features
 - Go to [leetcode.com](https://leetcode.com/) and open any problem.
