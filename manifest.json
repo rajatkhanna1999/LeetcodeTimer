@@ -1,0 +1,24 @@
+{
+    "manifest_version": 2,
+    "name":  "Leetcode Timer",
+    "version": "1.0",
+    "description": "This extension adds timer to leetcode website while solving some problem. Since leetcode is used for interview prepration and most interviews are time bound, so this is a benifitial chrome extension to monitor your speed.",
+    "icons": {
+        "128": "/Images/Leetcode-1.png",
+        "48": "/Images/Leetcode-1.png",
+        "16": "/Images/Leetcode-1.png"
+    },
+    "browser_action": {
+        "default_icon": "/Images/Leetcode-1.png",
+        "default_popup": "/HTML/popup.html"
+    },
+    "permissions": [
+        "storage"
+    ],
+    "content_scripts": [
+        {
+          "matches": ["https://leetcode.com/problems/*/"],
+          "js": ["/js/Timer.js"]
+        }
+    ]
+}

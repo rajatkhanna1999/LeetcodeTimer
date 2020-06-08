@@ -1,0 +1,43 @@
+.logo-div {
+    border-top: 1px solid gainsboro;
+    text-align: center;
+    padding-top: 2px;
+}
+
+#logo {
+    width: 57px;
+    height: 30px;
+}
+
+/* h1{
+    color: #454140;
+    font-family: "Times New Roman", Times, serif; 
+} */
+
+h3{
+    color: #606060;
+    font-family: "Times New Roman", Times, serif; 
+}
+
+h4{
+    color: #606060;
+    font-family: "Times New Roman", Times, serif; 
+}
+
+.header img {
+    float: center;
+    width: 200px;
+    height: 200px;
+    background: #555;
+}
+
+/* .header h1 {
+    position: relative;
+    top: 18px;
+    left: 10px;
+} */
+
+body{
+    width: 200px;
+    height:260px;
+}
