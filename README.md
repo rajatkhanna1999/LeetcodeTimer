@@ -3,7 +3,7 @@ A Chrome extension that provides timer for the leetcode questions. Leetcode is a
 
 ## Screenshots
 ![image](Images/It7.png)
-<img src="https://user-images.githubusercontent.com/31288037/84002595-4bc2f080-a986-11ea-83a9-53f290746339.png"">
+<img src="https://user-images.githubusercontent.com/31288037/84002595-4bc2f080-a986-11ea-83a9-53f290746339.png">
 
 ## Features
 - Go to [leetcode.com](https://leetcode.com/) and open any problem.
